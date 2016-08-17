@@ -11,4 +11,4 @@ It's that simple.
 
 You can find an example test in the `spec/example-spec.js`
 
-*Don't forget to include your source and spec files in the SpecRunner.html!*
+**Don't forget to include your source and spec files in the SpecRunner.html!**
